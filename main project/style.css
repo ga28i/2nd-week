@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Roboto" ;
+    src: url(Nunito-VariableFont_wght.ttf);
+}
+
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #1f2937;
+    color: aliceblue; 
+}
+.nav-links{
+  color: aliceblue;
+   justify-content:space-between;
+   display: inline;
+  
+}
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: #1f2937;
+    color: aliceblue;
+}

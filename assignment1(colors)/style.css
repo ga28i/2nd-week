@@ -1,0 +1,19 @@
+div {
+  background-color: rgb(241, 222, 51);
+}
+
+.first-header {
+  color: cornflowerblue;
+}
+
+.second-header {
+  color: #4143bc;
+}
+
+.third-header {
+  color: hsl(0, 100%, 50%);
+}
+
+.fourth-header {
+  color: rgb(50, 125, 98);
+}

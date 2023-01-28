@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: darkmagenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+img{
+    border-radius: 10%;
+}
